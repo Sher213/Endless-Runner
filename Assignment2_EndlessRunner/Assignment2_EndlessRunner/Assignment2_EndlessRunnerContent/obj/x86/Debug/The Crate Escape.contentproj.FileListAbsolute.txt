@@ -1,0 +1,2 @@
+G:\ICS3\Assignments\Programming\A2_Intermediate_Programming\Assignment2_EndlessRunner\Assignment2_EndlessRunner\Assignment2_EndlessRunnerContent\obj\x86\Debug\The Crate Escape.contentprojResolveAssemblyReference.cache
+E:\ICS3\Assignments\Programming\A2_Intermediate_Programming\Assignment2_EndlessRunner\Assignment2_EndlessRunner\Assignment2_EndlessRunnerContent\obj\x86\Debug\The Crate Escape.contentprojResolveAssemblyReference.cache
